@@ -2,17 +2,17 @@
 
 const char* messages[LANGUAGE_COUNT][MESSAGE_COUNT] = {
 	[LANGUAGE_PERSIAN] = {
-		[MESSAGE_NAME] = "سلام",
-		[MESSAGE_ENTRY_POINT_FUNCTION_NAME] = "سلام",
-		[MESSAGE_WELCOME] = "خوش آمدید به زبان برنامه‌نویسی سلام!\n"
-			"سلام اولین زبان اسکریپتی ایرانی فارسی/عربی برای کامپیوتر است.\n\n"
+		[MESSAGE_NAME] = "سیلک",
+		[MESSAGE_ENTRY_POINT_FUNCTION_NAME] = "سیلک",
+		[MESSAGE_WELCOME] = "خوش آمدید به زبان برنامه‌نویسی سیلک!\n"
+			"سیلک اولین زبان اسکریپتی ایرانی فارسی/عربی برای کامپیوتر است.\n\n"
 
 			"استفاده:\n"
-			"  sialk <filename>\t\t\t# اجرای یک اسکریپت سلام\n\n"
+			"  sialk <filename>\t\t\t# اجرای یک اسکریپت سیلک\n\n"
 			"مثال:\n"
-			"  sialk my_script.sialk\t\t# اجرای اسکریپت سلام به نام 'my_script.sialk'\n\n"
+			"  sialk my_script.sialk\t\t# اجرای اسکریپت سیلک به نام 'my_script.sialk'\n\n"
 
-			"با استفاده از سلام، به کشف و خلق بپردازید!\n"
+			"با استفاده از سیلک، به کشف و خلق بپردازید!\n"
 			"برای اطلاعات بیشتر، به وبسایت ما مراجعه کنید: https://sialklang.ir\n\n",
 		[MESSAGE_LEXER_UNEXPECTED_CHAR] = "خطا: نویسه غیرمنتظره '%c' در خط %zu، ستون %zu\n",
 		[MESSAGE_LEXER_COMMENT_MULTI_NOT_CLOSED] = "خطا: شما باید نظرات چندخطی خود را ببندید. ترک آنها بدون بستن مجاز نیست!\n",
@@ -72,22 +72,22 @@ const char* messages[LANGUAGE_COUNT][MESSAGE_COUNT] = {
 		[MESSAGE_MEMORY_ALLOCATE_ERROR] = "خطا در تخصیص حافظه\n",
 		[MESSAGE_MEMORY_REALLOCATE_ERROR] = "خطا در افزایش حافظه تخصیص یافته\n",
 
-		[MESSAGE_INTERPRETER_MAIN_RETURN_CODE] = "بازگشت تابع سلام: ",
+		[MESSAGE_INTERPRETER_MAIN_RETURN_CODE] = "بازگشت تابع سیلک: ",
 		[MESSAGE_INTERPRETER_UNKNOWN_NODE_AS_INTERPRETER_ONCE] = "خطا: نود ناشناخته در برنامه تفسیر!\n",
 	},
 
 	[LANGUAGE_ARABIC] = {
-		[MESSAGE_NAME] = "سلام",
-		[MESSAGE_ENTRY_POINT_FUNCTION_NAME] = "سلام",
-		[MESSAGE_WELCOME] = "مرحبًا بكم في لغة البرمجة سلام!\n"
-			"سلام هي أول لغة برمجة إيرانية باللغة الفارسية/العربية.\n\n"
+		[MESSAGE_NAME] = "سیلک",
+		[MESSAGE_ENTRY_POINT_FUNCTION_NAME] = "سیلک",
+		[MESSAGE_WELCOME] = "مرحبًا بكم في لغة البرمجة سیلک!\n"
+			"سیلک هي أول لغة برمجة إيرانية باللغة الفارسية/العربية.\n\n"
 
 			"الاستخدام:\n"
-			"  sialk <filename>\t\t\t# تنفيذ برنامج سلام\n\n"
+			"  sialk <filename>\t\t\t# تنفيذ برنامج سیلک\n\n"
 			"مثال:\n"
-			"  sialk my_script.sialk\t\t# تشغيل برنامج سلام 'my_script.sialk'\n\n"
+			"  sialk my_script.sialk\t\t# تشغيل برنامج سیلک 'my_script.sialk'\n\n"
 
-			"استمتع بالاكتشاف والإبداع باستخدام سلام!\n"
+			"استمتع بالاكتشاف والإبداع باستخدام سیلک!\n"
 			"لمزيد من المعلومات، قم بزيارة: https://sialklang.ir\n\n",
 		[MESSAGE_LEXER_UNEXPECTED_CHAR] = "خطأ: حرف غير متوقع '%c' في السطر %zu، العمود %zu\n",
 		[MESSAGE_LEXER_COMMENT_MULTI_NOT_CLOSED] = "خطأ: يجب إغلاق التعليقات متعددة الأسطر. لا يمكن تركها غير مغلقة!\n",
