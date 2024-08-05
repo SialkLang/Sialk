@@ -1,10 +1,10 @@
-# Salam Programming Language Documentation
+# Sialk Programming Language Documentation
 
 ## Information
 
 ### Name
 
-`Salam` or `Sallam` or `Salaam`
+`Sialk` or `Sallam` or `Salaam`
 
 ### Website
 
@@ -54,16 +54,16 @@ TODO
 
 ```
 $ ./salam
-Welcome to Salam Programming Language!
-Salam is the first Persian/Iranian computer scripting language.
+Welcome to Sialk Programming Language!
+Sialk is the first Persian/Iranian computer scripting language.
 
 Usage:
-  salam <filename>                      # Execute a Salam script
+  salam <filename>                      # Execute a Sialk script
 
 Example:
-  salam my_script.salam         # Run the Salam script 'my_script.salam'
+  salam my_script.salam         # Run the Sialk script 'my_script.salam'
 
-Feel free to explore and create using Salam!
+Feel free to explore and create using Sialk!
 For more information, visit: https://salamlang.ir
 ```
 

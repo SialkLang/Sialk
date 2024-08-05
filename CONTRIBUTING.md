@@ -1,14 +1,14 @@
-# Contributing Guide for SalamLang/Salam
+# Contributing Guide for SialkLang/Sialk
 
-Welcome to Salam! We're excited to have you on board and contributing to our open-source project. This guide will help you navigate the contribution process and ensure that your contributions are valuable and well-received.
+Welcome to Sialk! We're excited to have you on board and contributing to our open-source project. This guide will help you navigate the contribution process and ensure that your contributions are valuable and well-received.
 
 ## Ways to Contribute
 
 1. **Code Contributions**: Fix bugs, add new features, or improve existing code. Follow our coding conventions and guidelines (see below) when submitting code contributions.
 
-2. **Documentation**: Write or improve documentation, including README files, code comments, and user guides, to help others understand and use Salam.
+2. **Documentation**: Write or improve documentation, including README files, code comments, and user guides, to help others understand and use Sialk.
 
-3. **Testing**: Ensure the quality and stability of Salam by writing and running tests, identifying bugs, and preventing regressions.
+3. **Testing**: Ensure the quality and stability of Sialk by writing and running tests, identifying bugs, and preventing regressions.
 
 4. **Bug Reports**: Report any bugs or unexpected behavior you encounter, including steps to reproduce the issue and your environment details.
 
@@ -18,12 +18,12 @@ Welcome to Salam! We're excited to have you on board and contributing to our ope
 
 ## Getting Started
 
-1. **Fork the Repository**: Create your own copy of the project by forking the SalamLang/Salam repository on GitHub.
+1. **Fork the Repository**: Create your own copy of the project by forking the SialkLang/Sialk repository on GitHub.
 
 2. **Clone Your Fork**: Clone the repository to your local machine using
 
    ```
-   git clone https://github.com/your-username/Salam.git
+   git clone https://github.com/your-username/Sialk.git
    ```
 
 3. **Create a Branch**: Create a new branch for your contribution using a descriptive name, such as feature/my-new-feature.
@@ -61,6 +61,6 @@ To maintain consistency and readability, please follow these coding conventions 
 
 ## Feedback and Support
 
-If you have any questions, feedback, or need support, don't hesitate to reach out to the project maintainers or the community. We're here to help and support each other in making Salam the best it can be.
+If you have any questions, feedback, or need support, don't hesitate to reach out to the project maintainers or the community. We're here to help and support each other in making Sialk the best it can be.
 
-Thank you for your interest in contributing to Salam! We appreciate your help in making this project a success. Happy coding!
+Thank you for your interest in contributing to Sialk! We appreciate your help in making this project a success. Happy coding!

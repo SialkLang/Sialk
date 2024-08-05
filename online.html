@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html dir="rtl" lang="en_US">
     <head>
-        <title>Salam Programming Language</title>
+        <title>Sialk Programming Language</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
@@ -25,11 +25,11 @@
             var Module = {
                 noInitialRun: true,
                 onRuntimeInitialized: () => {
-                    console.log('Salam loaded successfully');
+                    console.log('Sialk loaded successfully');
                     isReady = true;
                     executeButton.disabled = false;
                     if (codeTextArea.value.toString().trim() != "") {
-                        runSalam();
+                        runSialk();
                     }
                 },
                 print: (text) => {
@@ -60,12 +60,12 @@
                 return output;
             }
 
-            function runSalam() {
-                console.log('Running Salam code...');
+            function runSialk() {
+                console.log('Running Sialk code...');
                 const code = codeTextArea.value.toString().trim();
 
                 if (!code) {
-                    alert('Code is empty! Please enter Salam code.');
+                    alert('Code is empty! Please enter Sialk code.');
                     return;
                 }
 
@@ -75,13 +75,13 @@
                 if (isReady) {
                     captureOutput(args);
                 } else {
-                    console.log('Salam runtime not ready. Please wait...');
+                    console.log('Sialk runtime not ready. Please wait...');
                 }
             }
 
             executeButton.addEventListener('click', () => {
                 console.log('Button clicked!');
-                runSalam();
+                runSialk();
             });
 
             var script = document.createElement('script');
