@@ -1,8 +1,8 @@
 @echo off
 REM Variables
-set INPUT_FILE=salam.c
+set INPUT_FILE=sialk.c
 set OUTPUT_FILE=s
-set EXAMPLE_FILE=input.salam
+set EXAMPLE_FILE=input.sialk
 
 REM Check if an argument is provided
 if "%~1" neq "" (

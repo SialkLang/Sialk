@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-    <a href="https://salamlang.ir/">
+    <a href="https://sialklang.ir/">
         <img width="150" src="https://raw.githubusercontent.com/SialkLang/Sialk/main/logo-box.svg" alt="The Sialk Programming Language - زبان برنامه نویسی سلام">
     </a>
 </p>
@@ -16,21 +16,21 @@ Sialk is a new programming language for students and children. Everyone can lear
 
 # Sialk Language: The Sialk Programming Language
 
-Sialk Language, inspired by the Persian and Arabic roots of the word `salam`, which means `peace`, is a programming language crafted for simplicity and accessibility within the Iranian, Persian-speaking, and Arabic-speaking communities. Serving as the first Persian and Arabic programming language, Sialk Language is designed to provide an intuitive and user-friendly experience, specifically tailored for users, students, and developers familiar with Persian or Arabic. Embracing the cultural and linguistic richness of the region, Sialk Language aims to empower a diverse range of individuals, making programming more approachable and fostering a sense of ease and collaboration in the local coding community.
+Sialk Language, inspired by the Persian and Arabic roots of the word `sialk`, which means `peace`, is a programming language crafted for simplicity and accessibility within the Iranian, Persian-speaking, and Arabic-speaking communities. Serving as the first Persian and Arabic programming language, Sialk Language is designed to provide an intuitive and user-friendly experience, specifically tailored for users, students, and developers familiar with Persian or Arabic. Embracing the cultural and linguistic richness of the region, Sialk Language aims to empower a diverse range of individuals, making programming more approachable and fostering a sense of ease and collaboration in the local coding community.
 
 ```
-$ ./salam
+$ ./sialk
 Welcome to Sialk Programming Language!
 Sialk is the first Persian/Iranian computer scripting language.
 
 Usage:
-  salam <filename>                      # Execute a Sialk script
+  sialk <filename>                      # Execute a Sialk script
 
 Example:
-  salam my_script.salam         # Run the Sialk script 'my_script.salam'
+  sialk my_script.sialk         # Run the Sialk script 'my_script.sialk'
 
 Feel free to explore and create using Sialk!
-For more information, visit: https://salamlang.ir
+For more information, visit: https://sialklang.ir
 ```
 
 ## Contributing

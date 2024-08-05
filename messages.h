@@ -8,12 +8,12 @@ const char* messages[LANGUAGE_COUNT][MESSAGE_COUNT] = {
 			"سلام اولین زبان اسکریپتی ایرانی فارسی/عربی برای کامپیوتر است.\n\n"
 
 			"استفاده:\n"
-			"  salam <filename>\t\t\t# اجرای یک اسکریپت سلام\n\n"
+			"  sialk <filename>\t\t\t# اجرای یک اسکریپت سلام\n\n"
 			"مثال:\n"
-			"  salam my_script.salam\t\t# اجرای اسکریپت سلام به نام 'my_script.salam'\n\n"
+			"  sialk my_script.sialk\t\t# اجرای اسکریپت سلام به نام 'my_script.sialk'\n\n"
 
 			"با استفاده از سلام، به کشف و خلق بپردازید!\n"
-			"برای اطلاعات بیشتر، به وبسایت ما مراجعه کنید: https://salamlang.ir\n\n",
+			"برای اطلاعات بیشتر، به وبسایت ما مراجعه کنید: https://sialklang.ir\n\n",
 		[MESSAGE_LEXER_UNEXPECTED_CHAR] = "خطا: نویسه غیرمنتظره '%c' در خط %zu، ستون %zu\n",
 		[MESSAGE_LEXER_COMMENT_MULTI_NOT_CLOSED] = "خطا: شما باید نظرات چندخطی خود را ببندید. ترک آنها بدون بستن مجاز نیست!\n",
 		[MESSAGE_LEXER_NUMBER_FLOAT_NEED_NUMBER_AFTER_DOT] = "خطای نحوی: پس از نقطه در مقدار اعشاری باید عددی وجود داشته باشد\n",
@@ -83,12 +83,12 @@ const char* messages[LANGUAGE_COUNT][MESSAGE_COUNT] = {
 			"سلام هي أول لغة برمجة إيرانية باللغة الفارسية/العربية.\n\n"
 
 			"الاستخدام:\n"
-			"  salam <filename>\t\t\t# تنفيذ برنامج سلام\n\n"
+			"  sialk <filename>\t\t\t# تنفيذ برنامج سلام\n\n"
 			"مثال:\n"
-			"  salam my_script.salam\t\t# تشغيل برنامج سلام 'my_script.salam'\n\n"
+			"  sialk my_script.sialk\t\t# تشغيل برنامج سلام 'my_script.sialk'\n\n"
 
 			"استمتع بالاكتشاف والإبداع باستخدام سلام!\n"
-			"لمزيد من المعلومات، قم بزيارة: https://salamlang.ir\n\n",
+			"لمزيد من المعلومات، قم بزيارة: https://sialklang.ir\n\n",
 		[MESSAGE_LEXER_UNEXPECTED_CHAR] = "خطأ: حرف غير متوقع '%c' في السطر %zu، العمود %zu\n",
 		[MESSAGE_LEXER_COMMENT_MULTI_NOT_CLOSED] = "خطأ: يجب إغلاق التعليقات متعددة الأسطر. لا يمكن تركها غير مغلقة!\n",
 		[MESSAGE_LEXER_NUMBER_FLOAT_NEED_NUMBER_AFTER_DOT] = "خطأ في الصياغة: نتوقع رقمًا بعد النقطة في القيمة العشرية\n",

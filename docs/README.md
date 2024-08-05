@@ -8,7 +8,7 @@
 
 ### Website
 
-<https://salamlang.ir>
+<https://sialklang.ir>
 
 ## Keywords
 
@@ -53,18 +53,18 @@ TODO
 ## Help
 
 ```
-$ ./salam
+$ ./sialk
 Welcome to Sialk Programming Language!
 Sialk is the first Persian/Iranian computer scripting language.
 
 Usage:
-  salam <filename>                      # Execute a Sialk script
+  sialk <filename>                      # Execute a Sialk script
 
 Example:
-  salam my_script.salam         # Run the Sialk script 'my_script.salam'
+  sialk my_script.sialk         # Run the Sialk script 'my_script.sialk'
 
 Feel free to explore and create using Sialk!
-For more information, visit: https://salamlang.ir
+For more information, visit: https://sialklang.ir
 ```
 
 ### Copyright

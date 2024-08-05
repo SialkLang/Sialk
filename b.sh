@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Variables
-INPUT_FILE="salam.c"
+INPUT_FILE="sialk.c"
 OUTPUT_FILE="s"
-EXAMPLE_FILE="input.salam"
+EXAMPLE_FILE="input.sialk"
 
 # Check if an argument is provided
 if [ "$#" -eq 1 ]; then
@@ -47,7 +47,7 @@ gcc -o "$OUTPUT_FILE" "$INPUT_FILE"
 # 	fi
 
 # 	# Compiling for web
-# 	emcc salam.c -o salam.js -s ALLOW_MEMORY_GROWTH=1 -s EXIT_RUNTIME=1 -s NO_EXIT_RUNTIME=1
+# 	emcc sialk.c -o sialk.js -s ALLOW_MEMORY_GROWTH=1 -s EXIT_RUNTIME=1 -s NO_EXIT_RUNTIME=1
 # fi
 
 # Check if compilation was successful
