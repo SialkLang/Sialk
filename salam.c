@@ -1,8 +1,8 @@
 //
-// THE SALAM PROGRAMMING LANGUAGE
+// THE SIALK PROGRAMMING LANGUAGE
 //
 
-#define _SALAM_LANGUAGE_
+#define _SIALK_LANGUAGE_
 
 #include <stdio.h>
 #include <wchar.h>

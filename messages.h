@@ -1,4 +1,4 @@
-#ifdef _SALAM_LANGUAGE_
+#ifdef _SIALK_LANGUAGE_
 
 const char* messages[LANGUAGE_COUNT][MESSAGE_COUNT] = {
 	[LANGUAGE_PERSIAN] = {
