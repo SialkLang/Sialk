@@ -2,7 +2,7 @@
 
 <p>
     <a href="https://sialklang.ir/">
-        <img width="150" src="https://raw.githubusercontent.com/SialkLang/Sialk/main/logo-box.svg" alt="The Sialk Programming Language - زبان برنامه نویسی سیلک">
+        <img width="150" src="https://raw.githubusercontent.com/SialkLang/Sialk/main/assets/logo-box.svg" alt="The Sialk Programming Language - زبان برنامه نویسی سیلک">
     </a>
 </p>
 
